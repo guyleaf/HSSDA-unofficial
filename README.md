@@ -26,4 +26,4 @@ Preparing...
 `HSSDA-unofficial` is released under the [Apache 2.0 license](LICENSE).
 
 ## Acknowledgement
-This code is based on [OpenPCDet v0.5.2](https://github.com/open-mmlab/OpenPCDet/tree/v0.5.2) and [HSSDA](https://github.com/azhuantou/HSSDA).
+This code is based on [OpenPCDet v0.6.0](https://github.com/open-mmlab/OpenPCDet/tree/aa753ec0e941ddb117654810b7e6c16f2efec2f9) and [HSSDA](https://github.com/azhuantou/HSSDA).
